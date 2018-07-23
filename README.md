@@ -1,0 +1,2 @@
+# WelcomeMimecastExample
+GitHub Pages
